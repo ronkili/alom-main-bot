@@ -35,7 +35,7 @@ module.exports = {
 
   // Staff role used by:
   // !rank, !h claims, moderation and ticket controls.
-  staffRoleId: "1552259334078074932",
+  staffRoleId: "1552260756404179014",
 
   // =====================
   // MODERATION
