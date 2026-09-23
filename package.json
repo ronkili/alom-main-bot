@@ -1,0 +1,18 @@
+{
+  "name": "alon-main-bot",
+  "version": "1.0.0",
+  "description": "Alon Main Bot - advanced Discord moderation, tickets, automatic verification permissions, staff stats, XP and welcome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1",
+    "@napi-rs/canvas": "^0.1.80"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
